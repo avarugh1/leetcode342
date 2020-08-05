@@ -14,7 +14,7 @@ public class Driver {
     }
 
     /**
-     * Solution 2: Bit Manipulation to determine if power of 2
+     * Solution 2: Bit Manipulation to determine if power of 4
      * Based on if only 1 bit is set
      * and if that bit is in an odd position
      * @param num int input num

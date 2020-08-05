@@ -15,5 +15,5 @@ Bit Manipulation solution to see if power of 4
 
 There must only be 1 bit set. That bit that is set must be in an odd position.
 
-### Solution 3: Mathimatical Solution
-Mathimatical solution checks logbase4(x) and verifies that 4^(result) is equal to the original number
+### Solution 3: Mathematical Solution
+Mathematical solution checks logbase4(x) and verifies that 4^(result) is equal to the original number
